@@ -411,6 +411,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[WordPress](https://github.com/WordPress/mcp-adapter)** - Expose WordPress abilities as MCP tools
 - **[BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server)** - Schedule, cross-post and analyze social posts on 15 platforms
 - **[SendPulse](https://sendpulse.com/features/mcp)** - Official MCP server for SendPulse multichannel marketing automation platform
+- **[linglistack/linkednav-mcp](https://github.com/linglistack/linkednav-mcp)** - Run LinkedIn outreach in LinkedNav: find leads, launch campaigns, reply
 
 </details>
 
