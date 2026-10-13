@@ -138,6 +138,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[VictoriaMetrics](https://github.com/VictoriaMetrics/mcp-victoriametrics)** - Query VictoriaMetrics instances and read its docs
 - **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** - LLM observability and evaluation with Phoenix
 - **[Google Analytics](https://github.com/googleanalytics/google-analytics-mcp)** - Query Google Analytics reports and properties
+- **[SolidPing](https://github.com/fclairamb/solidping)** - Uptime checks, incidents and status pages, self-hostable
 
 </details>
 
