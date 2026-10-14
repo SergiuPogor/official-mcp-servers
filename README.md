@@ -12,7 +12,7 @@
 **No unofficial forks, no abandoned projects, just servers you can trust.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Servers Count](https://img.shields.io/badge/MCP%20Servers-286-blue?style=flat-square)
+![Servers Count](https://img.shields.io/badge/MCP%20Servers-301-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/official-mcp-servers?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
