@@ -380,6 +380,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Viator](https://docs.viator.com/partner-api/mcp/)** - Search tours, activities and experience details ([Claude](https://claude.com/marketplace/connectors/viator))
 - **[Home Assistant](https://www.home-assistant.io/integrations/mcp_server/)** - Expose smart home entities to MCP clients
 - **[Audible](https://claude.com/marketplace/connectors/audible)** - Audiobook recommendations by genre, mood and topic
+- **[Golf Intelligence](https://github.com/golf-data/golf)** - Proprietary golf course data, scorecards, GPS and 3D greens
 
 </details>
 
