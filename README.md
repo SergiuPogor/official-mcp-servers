@@ -339,6 +339,7 @@ An MCP server can read your data and act on your behalf, so who built it matters
 - **[Vizro](https://github.com/mckinsey/vizro/tree/main/vizro-mcp)** - Build validated charts and dashboards with Vizro
 - **[Tableau](https://github.com/tableau/tableau-mcp)** - Let agents explore and query Tableau data
 - **[Docling](https://github.com/docling-project/docling-mcp)** - Document conversion and processing with Docling
+- **[VideoGen](https://github.com/video-gen/videogen-mcp)** - Create, edit and export videos and media. ([Setup](https://videogen.io/videogen-mcp))
 
 </details>
 
